@@ -1,4 +1,10 @@
+</br>
 
+<div align="center">
+    <img alt="full-stack-developer" src="(https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif)" width="65%" height="auto"/>
+</div>
+
+</br>
 <!---
 Maramhamed/Maramhamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
