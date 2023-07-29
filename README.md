@@ -1,7 +1,7 @@
 </br>
 
 <div align="center">
-    <img alt="full-stack-developer" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif"  height="auto"/>
+    <img alt="full-stack-developer" src="https://user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif" width=60% height="auto"/>
 </div>
 
 </br>
@@ -9,11 +9,11 @@
 Maramhamed/Maramhamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-#### About me:
--⭐ I'm an MIS student in my 4th year.
--🔭 I'm a passionate learner, Interested in Front-End development and UI/UX.
--🌱 I’m currently learning React Js.
--💬 How to reach me maramhamed83@gmail.com.<br><br><br>
+## About me:
+-⭐ I'm an MIS student in my 4th year.<be>
+-🔭 I'm a passionate learner, Interested in Front-End development and UI/UX.<be>
+-🌱 I’m currently learning React Js.<be>
+-💬 How to reach me maramhamed83@gmail.com.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maram-hamed-774825245/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Maramha8) 
