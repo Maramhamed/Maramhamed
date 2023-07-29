@@ -5,7 +5,6 @@ You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
 ⭐ I'm a Fourth-year MIS student in my 4th year<br>🔭 I'm a passionate learner, Interested in Front-End development and UI/UX<br>🌱 I’m currently learning React Js<br>💬 How to reach me maramhamed83@gmail.com.<br><br><br>
-[![](https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gifvv)
 [![](https://visitcount.itsvg.in/api?id=maramhamed&icon=8&color=10)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
@@ -38,7 +37,15 @@ You can click the Preview link to take a look at your changes.
         <a target="_blank" href="https://github.com/Huthaifa-Dev">
             <img width="40" height="40" alt="GitHub" src="https://user-images.githubusercontent.com/62269745/151359671-d93c3ac9-eeb2-465a-8277-7e70332b6e09.svg" />
         </a>
-        
+        <a target="_blank" href="https://helpx.adobe.com/illustrator/tutorials.html">
+            <img width="40" height="40" alt="Illustrator" src="https://user-images.githubusercontent.com/62269745/151360587-d87986aa-abbd-4cc8-b089-5d5b38578d1d.svg" />
+        </a>
+        <a target="_blank" href="https://www.adobe.com/products/xd/learn/get-started.html">
+            <img width="40" height="40" alt="XD" src="https://user-images.githubusercontent.com/62269745/151360585-5ac3aae5-3006-4f9f-a95f-9ed0fef57071.svg" />
+        </a>
+        <a target="_blank" href="https://helpx.adobe.com/after-effects/tutorials.html">
+            <img width="40" height="40" alt="After Effects"src="https://user-images.githubusercontent.com/62269745/151360586-ab62f7b9-ade5-49b6-9ff9-95a6047ec5e7.svg" />
+        </a>        
 
         
 
