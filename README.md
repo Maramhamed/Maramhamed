@@ -11,10 +11,10 @@ You can click the Preview link to take a look at your changes.
 --->
 
 #### About me:
-- 🚀 Experienced self-learner capable of picking up new technologies in the computer software sector. I am eager to learn everything that would help me            improve my talents and make my thoughts stand out.
-- 🔭 I’m building my profile and enahancing my social skills.
-- 🌱 I’m a Software Engineering student in my 4th year.
-- 💬 
+- ⭐ I'm an MIS student in my 4th year.
+- 🔭 I'm a passionate learner, Interested in Front-End development and UI/UX.
+- 🌱 I’m currently learning React Js
+- 💬 reach me maramhamed83@gmail.com
 <br/>
 
 ## 🌐 Socials:
