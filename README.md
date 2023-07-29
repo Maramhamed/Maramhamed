@@ -46,8 +46,8 @@ You can click the Preview link to take a look at your changes.
         <a target="_blank" href="https://helpx.adobe.com/after-effects/tutorials.html">
             <img width="40" height="40" alt="After Effects"src="https://user-images.githubusercontent.com/62269745/151360586-ab62f7b9-ade5-49b6-9ff9-95a6047ec5e7.svg" />
         </a>        
-        <a target="_blank" href="https://www.w3schools.com/cpp/">
-            <img width="40" height="40" alt="C++"src="https://user-images.githubusercontent.com/62269745/151369228-abccc643-638a-4462-9df8-aa20217e83f1.svg" />
+        <a target="_blank" href="https://www.postman.com/">
+            <img width="40" height="40" alt="PostMan"src="https://user-images.githubusercontent.com/62269745/151369228-abccc643-638a-4462-9df8-aa20217e83f1.svg](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
         </a>
         
 
