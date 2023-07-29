@@ -9,6 +9,7 @@
 Maramhamed/Maramhamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" height="300px" align="right">
 
 #### About me:
 - ⭐ I'm an MIS student in my 4th year.
@@ -17,9 +18,13 @@ You can click the Preview link to take a look at your changes.
 - 💬 reach me maramhamed83@gmail.com
 <br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maram-hamed-774825245/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Maramha8) 
-
+#### 𝙿𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝙿𝚛𝚘𝚏𝚒𝚕𝚎𝚜:
+<p align="left">
+       <a target="_blank" href="https://codeforces.com/profile/maramhamed" >
+            <img width="40" height="40" alt="Maram Hamed | Codeforces" src="https://user-images.githubusercontent.com/62269745/151356512-d7278471-0d3a-4227-bf85-736e3a692695.svg"/>
+        </a>
+ 
+</p>
   <p><b>  Languages and Tools</b></p>
         <br/>
     <p align="left">
