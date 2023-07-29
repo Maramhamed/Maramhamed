@@ -34,7 +34,7 @@ You can click the Preview link to take a look at your changes.
          <a target="_blank" href="https://git-scm.com/">
             <img width="40" height="40" alt="Git" src="https://user-images.githubusercontent.com/62269745/151359672-7056efb0-bea1-492f-9001-479006f3ecd6.svg" />
         </a>
-        <a target="_blank" href="https://github.com/Huthaifa-Dev">
+        <a target="_blank" href="https://github.com/maramhamed">
             <img width="40" height="40" alt="GitHub" src="https://user-images.githubusercontent.com/62269745/151359671-d93c3ac9-eeb2-465a-8277-7e70332b6e09.svg" />
         </a>
         <a target="_blank" href="https://helpx.adobe.com/illustrator/tutorials.html">
@@ -43,12 +43,9 @@ You can click the Preview link to take a look at your changes.
         <a target="_blank" href="https://www.adobe.com/products/xd/learn/get-started.html">
             <img width="40" height="40" alt="XD" src="https://user-images.githubusercontent.com/62269745/151360585-5ac3aae5-3006-4f9f-a95f-9ed0fef57071.svg" />
         </a>
-        <a target="_blank" href="https://helpx.adobe.com/after-effects/tutorials.html">
-            <img width="40" height="40" alt="After Effects"src="https://user-images.githubusercontent.com/62269745/151360586-ab62f7b9-ade5-49b6-9ff9-95a6047ec5e7.svg" />
-        </a>        
-        <a target="_blank" href="https://www.postman.com/">
-            <img width="40" height="40" alt="PostMan"src="https://user-images.githubusercontent.com/62269745/151369228-abccc643-638a-4462-9df8-aa20217e83f1.svg](https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
-        </a>
+   
+     
+      
         
 
 
