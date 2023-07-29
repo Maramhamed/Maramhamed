@@ -9,10 +9,10 @@
 Maramhamed/Maramhamed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-## About me:
--⭐ I'm an MIS student in my 4th year.<be>
--🔭 I'm a passionate learner, Interested in Front-End development and UI/UX.<be>
--🌱 I’m currently learning React Js.<be>
+##  About Me::
+-⭐ I'm an MIS student in my 4th year.<br>
+-🔭 I'm a passionate learner, Interested in Front-End development and UI/UX.<br>
+-🌱 I’m currently learning React Js.<br>
 -💬 How to reach me maramhamed83@gmail.com.<br>
 
 ## 🌐 Socials:
