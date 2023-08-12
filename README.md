@@ -40,5 +40,9 @@
         <a target="_blank" href="https://helpx.adobe.com/after-effects/tutorials.html">
             <img width="40" height="40" alt="After Effects"src="https://user-images.githubusercontent.com/62269745/151360586-ab62f7b9-ade5-49b6-9ff9-95a6047ec5e7.svg" />
         </a>
+        <a href="https://postman.com" target="_blank" rel="no-referrer">
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+        </a> 
+
     </p>
 
