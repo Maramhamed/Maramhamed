@@ -28,9 +28,6 @@
         <a target="_blank" href="https://github.com/Huthaifa-Dev">
             <img width="40" height="40" alt="GitHub" src="https://user-images.githubusercontent.com/62269745/151359671-d93c3ac9-eeb2-465a-8277-7e70332b6e09.svg" />
         </a>
-        <a target="_blank" href="https://helpx.adobe.com/photoshop/tutorials.html">
-            <img width="40" height="40" alt="Photoshop" src="https://user-images.githubusercontent.com/62269745/151360557-8be8738d-a771-4aa1-8969-4e7c6f6a8a47.svg" />
-        </a>
         <a target="_blank" href="https://helpx.adobe.com/illustrator/tutorials.html">
             <img width="40" height="40" alt="Illustrator" src="https://user-images.githubusercontent.com/62269745/151360587-d87986aa-abbd-4cc8-b089-5d5b38578d1d.svg" />
         </a>
