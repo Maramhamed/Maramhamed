@@ -18,9 +18,7 @@
         <a target="_blank" href="https://www.w3schools.com/css/">
             <img width="40" height="40" alt="CSS3" src="https://user-images.githubusercontent.com/62269745/151359335-1e65cadc-df9f-4cf2-951b-b667fa293457.svg" />
         </a>
-       <a href="https://getbootstrap.com" target="_blank" rel="no-referrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-       </a>
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
         <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
             <img width="40" height="40" alt="JavaScript" src="https://user-images.githubusercontent.com/62269745/151359936-62b0bb5a-20e8-44c8-8fd6-38662eba3a88.svg" />
         </a>
