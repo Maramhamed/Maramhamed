@@ -1,12 +1,13 @@
 
 #### About me:
+      <br/>
 - ⭐ I'm an MIS student in my 4th year.
 - 🔭 Interested in Front-End development and UI/UX.
 - 🌱 I’m currently learning React Js
 - 💬 reach me maramhamed83@gmail.com
 <br/>
 
-  <p><b>🛠️  Languages and Tools</b></p>
+  <p><b>🛠️ Languages and Tools:</b></p>
       <br/>
     <p align="left">
         <a target="_blank" href="https://code.visualstudio.com/" >
