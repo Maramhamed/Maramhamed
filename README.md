@@ -1,6 +1,5 @@
 
 #### About me:
-      <br/>
 - ⭐ I'm an MIS student in my 4th year.
 - 🔭 Interested in Front-End development and UI/UX.
 - 🌱 I’m currently learning React Js
