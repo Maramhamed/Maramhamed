@@ -7,7 +7,7 @@
 <br/>
 
   <p><b>🛠️ Languages and Tools:</p>
-    <p align="left">
+    <p align="center">
         <a target="_blank" href="https://code.visualstudio.com/" >
             <img width="40" height="40" alt="VSCode" src="https://user-images.githubusercontent.com/62269745/151358432-5e114212-1d71-4339-9066-7712f56326f0.svg"/>
         </a>
