@@ -1,6 +1,6 @@
 
 #### About me:
-- ⭐ I'm an MIS student in my 4th year.
+- ⭐ Transforming Creativity into Code!
 - 🔭 Interested in Front-End development and UI/UX.
 - 🌱 I’m currently learning React Js
 - 💬 reach me maramhamed83@gmail.com
