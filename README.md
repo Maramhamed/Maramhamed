@@ -1,5 +1,4 @@
 
-<img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
 #### About me:
 - ⭐ Transforming Creativity into Code!
 - 🔭 Interested in Front-End development and UI/UX.
