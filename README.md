@@ -26,7 +26,7 @@
         <a target="_blank" href="https://git-scm.com/">
             <img width="40" height="40" alt="Git" src="https://user-images.githubusercontent.com/62269745/151359672-7056efb0-bea1-492f-9001-479006f3ecd6.svg" />
         </a>
-        <a target="_blank" href="https://github.com/Huthaifa-Dev">
+        <a target="_blank" href="https://github.com/maramhamed">
             <img width="40" height="40" alt="GitHub" src="https://user-images.githubusercontent.com/62269745/151359671-d93c3ac9-eeb2-465a-8277-7e70332b6e09.svg" />
         </a>
         <a target="_blank" href="https://helpx.adobe.com/illustrator/tutorials.html">
