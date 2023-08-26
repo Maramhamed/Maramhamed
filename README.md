@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning React Js
 - 💬 reach me maramhamed83@gmail.com
 <br/>
+<img src="https://media0.giphy.com/media/3oKIPjVWNZsouSH4DS/giphy.gif?" height="200px" align="right">
 
   <p><b> Languages and Tools: </b></p>
   <p align="center">
