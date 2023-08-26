@@ -42,3 +42,10 @@
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
         </a> <br>
         (https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+          <p><b>🛠️  Languages and Tools</b></p>
+        <br/>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,html,css,js,bootstrap,git,github,postman,pr,xd,ai" />       
+  </a>
