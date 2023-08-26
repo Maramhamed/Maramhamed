@@ -41,4 +41,4 @@
         <a href="https://postman.com" target="_blank" rel="no-referrer">
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
         </a> <br>
-        [My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+        (https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
