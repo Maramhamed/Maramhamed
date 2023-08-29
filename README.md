@@ -1,6 +1,6 @@
 
 #### About me:
-- ⭐ Let's transforming Creativity into Code!
+- ⭐ Let's transform Creativity into Code!
 - 🔭 Interested in Front-End development and UI/UX.
 - 🌱 I’m currently learning React Js
 - 💬 reach me maramhamed83@gmail.com
