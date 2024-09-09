@@ -1,6 +1,6 @@
 
 #### About me:
-- 🔭 Interested in Front-End Development.
+- 🔭  Front-End Developer.
 - 🌱 I’m currently learning React JS.
 - 💬  Let's connect and collaborate! maramhamed83@gmail.com
 <br/>
